@@ -1,13 +1,13 @@
 struct something_me
 {
-   fn about_something(me: string);
+   let Me : string;
 }
 
 impl something_me
 {
-  fn about_something(me : string)
+  fn about_something()
   {
-       if(me)
+       if(Me)
         {
          /// I am not interested in any other things like Data Analyst, 
          /// Human and Resource, Desktop Runner or QA anything 
