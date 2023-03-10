@@ -1,11 +1,11 @@
 struct something_me
 {
-   fn about_something(_me : string);
+   fn about_something(me_: string);
 }
 
 impl something_me
 {
-  fn about_something(_me : string)
+  fn about_something(me_ : string)
   {
        if(_me)
         {
