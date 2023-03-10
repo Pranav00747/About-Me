@@ -1,6 +1,6 @@
 struct something_me
 {
-   fn about_something(me_: string);
+   fn about_something(me: string);
 }
 
 impl something_me
