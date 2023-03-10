@@ -5,9 +5,9 @@ struct something_me
 
 impl something_me
 {
-  fn about_something(me_ : string)
+  fn about_something(me : string)
   {
-       if(_me)
+       if(me)
         {
          /// I am not interested in any other things like Data Analyst, 
          /// Human and Resource, Desktop Runner or QA anything 
