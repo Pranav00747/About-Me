@@ -1,13 +1,13 @@
 struct something_me
 {
-   fn about_something(__me : string);
+   fn about_something(_me : string);
 }
 
 impl something_me
 {
-  fn about_something(__me : string)
+  fn about_something(_me : string)
   {
-       if(__me)
+       if(_me)
         {
          /// I am not interested in any other things like Data Analyst, 
          /// Human and Resource, Desktop Runner or QA anything 
